@@ -1,18 +1,17 @@
 import type { NextConfig } from "next";
 import withPWAInit from "@ducanh2912/next-pwa";
 
+// Disable PWA for static export - causing hydration issues
 const withPWA = withPWAInit({
   dest: "public",
-  disable: process.env.NODE_ENV === "development",
-  register: true,
+  disable: true,
+  register: false,
 });
-
-const isProd = process.env.NODE_ENV === "production";
 
 const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
-  basePath: isProd ? "/fitness-ledger-v2" : "",
+  basePath: "/fitness-ledger-v2",
   images: {
     unoptimized: true,
   },
