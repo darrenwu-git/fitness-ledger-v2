@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[7121,[],""]
 3:I[4581,[],""]
-4:I[3096,["405","static/chunks/405-6ac972c362980e0b.js","177","static/chunks/app/layout-01a5191179403e43.js"],"default"]
-:HL["/_next/static/css/0a6cf09243374c18.css","style"]
-0:{"buildId":"SOytuNG9WwGMB8OAsgPLQ","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0a6cf09243374c18.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased bg-gray-50 dark:bg-black text-gray-900 dark:text-gray-100 min-h-screen pb-20","children":[["$","main",null,{"className":"max-w-lg mx-auto px-4 py-8","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}],["$","$L4",null,{}]]}]}]]}],"loading":null,"isPartial":false}
+4:I[3096,["405","static/chunks/405-6ac972c362980e0b.js","177","static/chunks/app/layout-44d2f1b654bc7452.js"],"default"]
+:HL["/fitness-ledger-v2/_next/static/css/e33fa305e9b675aa.css","style"]
+0:{"buildId":"DkwrEA1fI3nS2SJlZkOC1","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/fitness-ledger-v2/_next/static/css/e33fa305e9b675aa.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_539787 __variable_53117e antialiased bg-gray-50 dark:bg-black text-gray-900 dark:text-gray-100 min-h-screen pb-20","children":[["$","main",null,{"className":"max-w-lg mx-auto px-4 py-8","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}],["$","$L4",null,{}]]}]}]]}],"loading":null,"isPartial":false}

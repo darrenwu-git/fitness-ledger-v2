@@ -7,9 +7,12 @@ const withPWA = withPWAInit({
   register: true,
 });
 
+const isProd = process.env.NODE_ENV === "production";
+
 const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
+  basePath: isProd ? "/fitness-ledger-v2" : "",
   images: {
     unoptimized: true,
   },
